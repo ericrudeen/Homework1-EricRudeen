@@ -12,3 +12,10 @@ Though teh aforementioned were the two most important steps taken to make this s
 
 Below is a screenshot of the comppleted application:
 
+https://github.com/ericrudeen/Homework1-EricRudeen/blob/988d84ab636bfb92d308d89141e6dd6b140b819d/images/screencapture-ericrudeen-github-io-Homework1-EricRudeen-2021-03-13-15_42_17.png
+
+## Link to Deployed Application
+
+Here is a link to the deployed application:
+
+https://ericrudeen.github.io/Homework1-EricRudeen/
